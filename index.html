@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Proyecto</title>
+  <link rel="stylesheet" href="styles/reset.css">
+  <link rel="stylesheet" href="styles/styles.css">
+
+</head>
+
+<body>
+  <header>
+    <div class="secciones">
+      <h1>Mario Fuceneco</h1>
+      <h2>Mi pagina web</h2>
+    </div>
+
+  </header>
+  <main>
+
+    <section class="secciones">
+      <h3>¿Quien soy?</h3>
+      <p> Me llamo Mario y tengo 27 años. Me apasionan las tecnologías y la informática. Mi interés constante por
+        estos campos me impulsa a mantenerme al tanto de las últimas tendencias y desarrollos tecnológicos. Disfruto
+        explorando nuevas herramientas, aprendiendo sobre programación y construyendo mis propios proyectos
+        tecnológicos. Mi dedicación a la informática me motiva a buscar continuamente oportunidades de crecimiento y
+        desarrollo profesional en este ámbito.</p>
+    </section>
+    <section class="secciones">
+      <h3>Mis tecnologias favoritas</h3>
+      <div class="contenedorlogos">
+        <div>
+          <p>HTML</p>
+          <img src="./imag/html-svgrepo-com.svg" alt="">
+        </div>
+        <div>
+          <p>CSS</p>
+          <img src="./imag/css-3-svgrepo-com.svg" alt="">
+        </div>
+        <div>
+          <p>JavaScript</p>
+          <img src="./imag/js-svgrepo-com.svg" alt="">
+        </div>
+      </div>
+    </section>
+    <section class="secciones centradoformulario">
+      <h3>Mis actividades favoritas</h3>
+      <form id="actividad-form">
+        <label for="title">Nombre de la actividad:</label>
+        <input type="text" id="title" name="title" required><br>
+
+        <label for="description">Descripción:</label>
+        <textarea id="description" name="description" required></textarea><br>
+
+        <label for="imgurl">URL de la imagen:</label>
+        <input type="url" id="imgurl" name="imgurl" required><br>
+
+        <button id="agregar-actividad">Agregar Actividad</button>
+      </form>
+      <div id="cardsContainer"></div>
+
+    </section>
+  </main>
+  <footer></footer>
+  <script src="./scripts/index.js"></script>
+</body>
+
+</html>
