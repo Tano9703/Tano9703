@@ -36,11 +36,12 @@ También cuento con experiencia en **desarrollo backend**, lo que me permite apo
 
 ---
 
-## 💼 Proyecto destacado
+## 💼 Proyecto Destacado
 
-| Proyecto        | Descripción                              | Link                                   |
-|-----------------|----------------------------------------|---------------------------------------|
-| Heroes Cercanos | Plataforma web para apoyar a bomberos y la comunidad. | [GitHub](https://github.com/HeroesCercanos) |
+| Proyecto        | Descripción                              | GitHub                                   | Deploy                                  |
+|-----------------|----------------------------------------|-----------------------------------------|----------------------------------------|
+| Heroes Cercanos | Plataforma web para apoyar a Bomberos Voluntarios y la Comunidad. | [GitHub](https://github.com/HeroesCercanos) | [Render](https://heroes-cercanos-front.onrender.com/) |
+
 
 ---
 
