@@ -33,7 +33,7 @@ También cuento con experiencia en **desarrollo backend**, lo que me permite apo
 
 ---
 
-## 💼 Proyectos destacados
+## 💼 Proyecto destacado
 
 | Proyecto        | Descripción                              | Link                                   |
 |-----------------|----------------------------------------|---------------------------------------|
