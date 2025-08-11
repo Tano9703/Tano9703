@@ -53,7 +53,7 @@ También cuento con experiencia en **desarrollo backend**, lo que me permite apo
 ## 📫 Contacto
 📍 Monte Caseros, Corrientes, Argentina  
 💼 [LinkedIn](https://www.linkedin.com/in/mario-fuceneco/)  
-✉️ **mariofuceneco97@gmail.com**   
+✉️ **mario.fuceneco97@gmail.com**   
 
 ---
 
