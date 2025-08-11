@@ -1,4 +1,4 @@
-# 👋 Hola, soy Mario Fuceneco
+# 👋 ¡Hola! Soy Mario Fuceneco
 
 💻 **Fullstack Web Developer** | **Frontend Specialist**  
 🚀 JavaScript | TypeScript | React | Next.js | Node.js
@@ -33,6 +33,14 @@ También cuento con experiencia en **desarrollo backend**, lo que me permite apo
 
 ---
 
+## 💼 Proyectos destacados
+
+| Proyecto        | Descripción                              | Link                                   |
+|-----------------|----------------------------------------|---------------------------------------|
+| Heroes Cercanos | Aplicación para encontrar héroes cercanos. | [GitHub](https://github.com/HeroesCercanos) |
+
+---
+
 ## 📈 Estadísticas de GitHub
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Tano9703&show_icons=true&theme=tokyonight)
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Tano9703&layout=compact&theme=tokyonight)
@@ -45,4 +53,6 @@ También cuento con experiencia en **desarrollo backend**, lo que me permite apo
 ✉️ **mariofuceneco97@gmail.com**   
 
 ---
-✨ _Siempre en busca de nuevos desafíos para seguir creciendo y aportando valor._
+
+✨ _Siempre en busca de nuevos desafíos para seguir creciendo y aportando valor._  
+
