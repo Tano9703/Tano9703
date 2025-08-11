@@ -1,7 +1,6 @@
 # 👋 ¡Hola! Soy Mario Fuceneco
 
 💻 **Fullstack Web Developer** | **Frontend Specialist**  
-🚀 JavaScript | TypeScript | React | Next.js | Node.js
 
 ---
 
