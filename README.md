@@ -37,7 +37,7 @@ También cuento con experiencia en **desarrollo backend**, lo que me permite apo
 
 | Proyecto        | Descripción                              | Link                                   |
 |-----------------|----------------------------------------|---------------------------------------|
-| Heroes Cercanos | Aplicación para encontrar héroes cercanos. | [GitHub](https://github.com/HeroesCercanos) |
+| Heroes Cercanos | Plataforma web para apoyar a bomberos y la comunidad. | [GitHub](https://github.com/HeroesCercanos) |
 
 ---
 
